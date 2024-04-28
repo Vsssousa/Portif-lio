@@ -1,0 +1,16 @@
+
+/*RODAPÉ ESTILIZAÇÃO  COR E LARGURA*/
+
+footer{
+    background-color: #232831 ;
+    padding: 16px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    font-size: 0.8em;
+    font-weight: 200;
+}

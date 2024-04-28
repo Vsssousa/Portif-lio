@@ -1,0 +1,26 @@
+/* CORPO DO SITE FUNDO  LETRAS */
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Montserrat", sans-serif;
+}
+
+body{
+    width: 100%h; 
+    height: 100vh;
+
+    background-color: #111212;
+    color:#f6f4f4;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+a {
+  text-decoration: nome;
+  color:#f3eeee;
+  transition: 0.2s ease-in-out;
+}
